@@ -187,8 +187,8 @@ body {
   font-size: 9px;
   color: var(--badge-text-success);
   background-color: var(--badge-bg-success);
-  top: -10px;
-  left: -26px;
+  top: -24px;
+  left: -84px;
   visibility: hidden;
 
 }
@@ -252,7 +252,7 @@ body {
 }
 
 .w1 {
-  width: 285px;
+  width: 267px;
 }
 
 .w2 {
